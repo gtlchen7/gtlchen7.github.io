@@ -16,7 +16,7 @@ main:
   - title: "News"
     url: ./#news
 
-  - title: "Blog"
+  - title: "Video"
     url: ./blog/
 
   - title: "Bio"
