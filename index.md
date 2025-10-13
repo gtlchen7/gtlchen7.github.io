@@ -8,22 +8,18 @@ layout: homepage
 
 <!-- I am currently a Physics Ph.D. candidate at [Spin-Ion Technologies](https://www.spin-ion.com/) and [Université Paris-Saclay](https://www.universite-paris-saclay.fr/), working under the mentorship of Dr. [Ravelosona dafiné](https://www.spin-ion.com/about-us/), the director of research [CNRS](https://www.cnrs.fr/fr) and CTO of [Spin-Ion Technologies](https://www.spin-ion.com/). -->
 
-Dr. Chen Liu is a Research Associate in the SoftLab led by Professor Jonathan Rossiter at the University of Bristol. His research focuses on soft robotics, artificial muscles, and wearable systems for human assistance and healthcare applications. He has extensive experience in flexible sensors, variable-stiffness structures, and bio-inspired robotic design, bridging material innovation with robotic functionality.
+Dr. Chen Liu is a Research Associate in the SoftLab led by Professor Jonathan Rossiter at the University of Bristol (UoB). His research focuses on soft robotics, artificial muscles, and wearable systems for human assistance and healthcare applications. He has extensive experience in flexible sensors, variable-stiffness structures, and bio-inspired robotic design, bridging material innovation with robotic functionality.
 
 Dr. Liu received his PhD in Mechanical Engineering from Queen Mary University of London (QMUL). He previously worked as a Postdoctoral Research Associate at QMUL and as a Research Fellow at University College London (UCL). He also serves as a reviewer for IEEE/ASME Transactions on Mechatronics and other international journals. Dr. Liu was also selected as a STEM for Britain representative at the UK Parliament in 2025.
 
 ## Research Interest
 
-- **Multi-physics Simulation:** Io-Matter Simulation(SRIM, SDTrimSP, RustBCA), Micromagnetic Simulation (MuMax3, OOMMF)444444444
-- **Ion Irradiation/Implantation**
-- **Machine Learning:** fairness AI, penalization and augmentation methods
-- **Voltage Controlled Magnetism** VCMA, Strain-mediated ME (Magnetoelectric) Effects, Straintronic, iontronic, E-filed induced spin reorientation, SOT.
-- **Micro-, Nanofabrication**
-- **Neuromorphic Computing** Neuromorphic Sensing and Perception, Hybrid Computing Systems, Brain-Inspired Robotics
-
+- **Soft Robotics:** Smart actuators, soft sensors, Mechanisms
+- **Medical Robotics:** Wearable robotics, Colonoscopy robot
+- 
 ## Education
-- **Ph.D. in Robotics**, 2020 - 2024, [Queen Mary University of London](https://www.universite-paris-saclay.fr/), France
-- **M.Sc. in Materials Science**, 2017 - 2021, [RWTH-Aachen](https://www.rwth-aachen.de/go/id/a/?lidx=1), Germany
+- **Ph.D. in Robotics**, 2020 - 2024, [Queen Mary University of London](https://www.universite-paris-saclay.fr/), United Kingdom
+- **M.Eng. in Mechanical Engineering**, 2017 - 2020, [Xi'an Jiaotong University](https://www.rwth-aachen.de/go/id/a/?lidx=1), China
 - **B.Sc. in Materials Science**, 2009 - 2013, [Nanjing Tech Univeristy](https://www.njtech.edu.cn/), China
 - **German Certificate**, 2011 - 2012, [Nanjing Univeristy](https://www.nju.edu.cn/), China
 - **Coursera Certificate**, 2024 - present, [Coursera](https://www.coursera.org/), Online
