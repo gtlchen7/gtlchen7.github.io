@@ -16,7 +16,7 @@ smain:
   - title: "News"
     url: ./#news
 
-  - title: "Video"
+  - title: "Blogs"
     url: ./blog/
 
   - title: "Bio"
