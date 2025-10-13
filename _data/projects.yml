@@ -8,22 +8,21 @@ main:
     image: https://blog.songchen.science/images/plasma.jpg
     notes: The VIVO Hub for Enhanced Independent Living
 
-  - title: I-V Measurement System
-    authors: Song Chen
-    project_short: Software
-    project: The software is used to aplly the bias voltage and measure the current. Futher features such as I-V, V-I switching toggle, and Cyclic Voltammetry (CV) will be also included. 
-    pdf: https://goindex.chen-song90.workers.dev/0:/I-V/
-    web: https://goindex.chen-song90.workers.dev/0:/I-V/
-    image: https://blog.songchen.science/images/I-V/GUI.png
-    notes:
+  - title: Impact Fund @ Queen Mary
+    project_short: Research project
+    authors: Chen Liu
+    project: The project aims to develop a soft 3-dimensional sensing tactile sensor.
+    #pdf: https://goindex.chen-song90.workers.dev/0:/I-V/
+    #web: https://goindex.chen-song90.workers.dev/0:/I-V/
+    #image: https://blog.songchen.science/images/I-V/GUI.png
+    notes: 
 
-  - title: Anomalous Hall Effect Measurement System (AHEMS)
-    authors: Song Chen
-    project_short: Software
-    project: The software is used to obatin the AHE hysteresis loops which is based on he relationship between the anomalous Hall conductivity and an external magnetic field applied to a material.
-    pdf: https://goindex.chen-song90.workers.dev/0:/AHEMS/
-    web: https://goindex.chen-song90.workers.dev/0:/AHEMS/
-    image: https://blog.songchen.science/images/AHE/GUI.png
+  - title: Integrated Human-Augmented Robotics and Intelligent Sensing Platform for Precision Viticulture
+    project_short: Research project
+    project: This innovative three-year project aims to develop a robotic precision farming ecosystem for the viticulture industry. The robot will utilise: Intelligent sensing and image spectral analysis; Precision manipulation and perception systems with a virtual reality interface; Cloud-connected AI components with human-in-the-loop learning capabilities. The project is led by Extend Robotics (ER), in collaboration Queen Mary University of London (QMUL) and a viticulture industry partner, Saffron Grange. The ultimate goals of the project are to reduce reliance on seasonal workers, reduce the cost of inputs, increase yield and reduce environmental impacts.
+    #pdf: https://goindex.chen-song90.workers.dev/0:/AHEMS/
+    web: https://www.sems.qmul.ac.uk/research/projects/1856/integrated-human-augmented-robotics-and-intelligent-sensing-platform-for-precision-viticulture
+    #image: https://blog.songchen.science/images/AHE/GUI.png
     notes:
 
   - title: AutoVA - Automated VCMA & AHE Measurement System
