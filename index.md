@@ -14,9 +14,11 @@ Dr. Liu received his PhD in Mechanical Engineering from Queen Mary University of
 
 ## Research Interest
 
-- **Soft Robotics:** Smart actuators, soft sensors, Mechanisms
-- **Medical Robotics:** Wearable robotics, Colonoscopy robot
-- 
+- **Soft Robotics:** Development of next-generation soft actuators, artificial muscles, and variable-stiffness mechanisms that enable compliant, shape-morphing, and energy-efficient robotic motion. His work explores new smart materials and fabrication strategies, including 3D printing and hybrid soft–rigid integration, to bridge the gap between materials and robotic functionality.
+- **Flexible Sensing and Control:** Design of flexible tactile and proprioceptive sensors for soft structures, enabling high-resolution feedback, self-sensing actuation, and intelligent control in dynamic environments.
+- **Medical and Wearable Robotics:** Creation of wearable soft robotic devices for tremor suppression and motion assistance, as well as soft robotic capsules for colonoscopy that integrate multi-modal sensing and AI-assisted navigation to enhance safety and diagnostic performance.
+- **Advanced Manufacturing and System Integration:** Exploration of additive manufacturing, soft lithography, and embedded electronics to realize compact, lightweight, and multifunctional soft robotic platforms.
+
 ## Education
 - **Ph.D. in Robotics**, 2020 - 2024, [Queen Mary University of London](https://www.universite-paris-saclay.fr/), United Kingdom
 - **M.Eng. in Mechanical Engineering**, 2017 - 2020, [Xi'an Jiaotong University](https://www.rwth-aachen.de/go/id/a/?lidx=1), China
