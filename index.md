@@ -24,16 +24,10 @@ Dr. Liu received his PhD in Mechanical Engineering from Queen Mary University of
 - **M.Eng. in Mechanical Engineering**, 2017 - 2020, Xi'an Jiaotong University, China
 - **B.Sc. in Chemical Engineering**, 2013 - 2017, Northwest University, China
 
-## Grants and Fellowships
-- **Marie Skłodowska-Curie Actions (MSCA) Individual Fellowship**, 2020-2024, Early Stage Researcher (ESR), Grant Number: 864415
-
 ## Professional Affiliations
-- **Marie Curie Alumni Association Member**, 2021 - Present
-- **The European Magnetism Association (EMA) Member**, 2021 - Present
+- **IET Member**, 2021 - Present
+- **IEEE Member**, 2021 - Present
 
-## Certificates
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="343635de-7d0f-43ea-922d-432566a4b1e5" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 {% include_relative _includes/news.md %}
 
