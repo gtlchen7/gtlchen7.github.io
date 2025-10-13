@@ -17,7 +17,7 @@ main:
     #image: https://blog.songchen.science/images/I-V/GUI.png
     notes: 
 
- # - title: Integrated Human-Augmented Robotics and Intelligent Sensing Platform for Precision Viticulture
+  - title: Integrated Human-Augmented Robotics and Intelligent Sensing Platform for Precision Viticulture
     project_short: Research project
     project: This innovative three-year project aims to develop a robotic precision farming ecosystem for the viticulture industry. The robot will utilise: Intelligent sensing and image spectral analysis; Precision manipulation and perception systems with a virtual reality interface; Cloud-connected AI components with human-in-the-loop learning capabilities. The project is led by Extend Robotics (ER), in collaboration Queen Mary University of London (QMUL) and a viticulture industry partner, Saffron Grange. The ultimate goals of the project are to reduce reliance on seasonal workers, reduce the cost of inputs, increase yield and reduce environmental impacts.
     #pdf: https://goindex.chen-song90.workers.dev/0:/AHEMS/
@@ -34,7 +34,7 @@ main:
     image: ./assets/img/autova.png
     notes:
 
-  - title: Tuning of perpendicular magnetic anisotropy in Bi-substituted yttrium iron garnet films by He+ ion irradiation
+# - title: Tuning of perpendicular magnetic anisotropy in Bi-substituted yttrium iron garnet films by He+ ion irradiation
     authors: Sreeveni Das, Rhodri Mansell, Lukáš Flajšman, Lide Yao, Johannes W van der Jagt, Song Chen, Dafiné Ravelosona, Liza Herrera Diez, Sebastiaan van Dijken
     project_short: Research project
     project: This research investigates the effects of He+ ion irradiation on the perpendicular magnetic anisotropy (PMA) of Bi-substituted yttrium iron garnet (Bi:YIG) films. The samples are irradiated with different doses of He+ ions, and the effects on the magnetic properties are studied. The results show that the PMA can be tuned by He+ ion irradiation, which is important for the development of spintronic devices.
@@ -43,7 +43,7 @@ main:
     image: https://blog.songchen.science/images/plasma.jpg
     notes: Responsible for the design and implementation of the experiment, and BCA simulations.
 
-  - title: Controlling Magneto‐Ionics by Defect Engineering Through Light Ion Implantation
+ # - title: Controlling Magneto‐Ionics by Defect Engineering Through Light Ion Implantation
     authors: Zheng Ma, Sofia Martins, Zhengwei Tan, Song Chen, Elmer Monteblanco, Maciej Liedke, Maik Butterling, Ahmed G Attallah, Eric Hirschmann, Andreas Wagner, Alberto Quintana, Eva Pellicer, Dafiné Ravelosona, Jordi Sort, Enric Menéndez
     project_short: Research project
     project: This research investigates the effects of light ion implantation on the magneto-ionic effect in the Co3O4 thin films.
