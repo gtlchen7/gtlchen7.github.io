@@ -21,8 +21,8 @@ Dr. Liu received his PhD in Mechanical Engineering from Queen Mary University of
 
 ## Education
 - **Ph.D. in Robotics**, 2020 - 2024, [Queen Mary University of London](https://www.sems.qmul.ac.uk/staff/c.liu), United Kingdom
-- **M.Eng. in Mechanical Engineering**, 2017 - 2020, [Xi'an Jiaotong University], China
-- **B.Sc. in Chemical Engineering**, 2013 - 2017, [Northwest University], China
+- **M.Eng. in Mechanical Engineering**, 2017 - 2020, Xi'an Jiaotong University, China
+- **B.Sc. in Chemical Engineering**, 2013 - 2017, Northwest University, China
 
 ## Grants and Fellowships
 - **Marie Skłodowska-Curie Actions (MSCA) Individual Fellowship**, 2020-2024, Early Stage Researcher (ESR), Grant Number: 864415
