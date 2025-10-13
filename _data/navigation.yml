@@ -17,7 +17,7 @@ main:
     url: ./#news
 
   - title: "Video"
-    url: ./blog/
+    url: https://www.youtube.com/@chenliu4167
 
   - title: "Bio"
     url: ./#about-me
