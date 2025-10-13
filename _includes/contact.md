@@ -6,7 +6,7 @@
 <br />
 <strong>Office Location:</strong> Bristol Robotics Laboratory
 <br />
-<strong>Email:</strong> <email>chen.liu (at) bristol.ac.uk</email>
+<strong>Email:</strong> <email>chen.liu@bristol.ac.uk</email>
 <br />
 <!-- <strong>Phone:</strong> </p> -->
 <!-- <p style="text-align: left;"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeFJTf6Nq_juYt4YNHpMSA5JOIDjsyAG3BjNEWdyAJfhfO11w/viewform?embedded=true&hl=en" width="640" scrolling="no" height="780" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe></p> -->
