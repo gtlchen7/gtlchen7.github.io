@@ -17,7 +17,7 @@ main:
     #image: https://blog.songchen.science/images/I-V/GUI.png
     notes: 
 
-  - title: Integrated Human-Augmented Robotics and Intelligent Sensing Platform for Precision Viticulture
+ # - title: Integrated Human-Augmented Robotics and Intelligent Sensing Platform for Precision Viticulture
     project_short: Research project
     project: This innovative three-year project aims to develop a robotic precision farming ecosystem for the viticulture industry. The robot will utilise: Intelligent sensing and image spectral analysis; Precision manipulation and perception systems with a virtual reality interface; Cloud-connected AI components with human-in-the-loop learning capabilities. The project is led by Extend Robotics (ER), in collaboration Queen Mary University of London (QMUL) and a viticulture industry partner, Saffron Grange. The ultimate goals of the project are to reduce reliance on seasonal workers, reduce the cost of inputs, increase yield and reduce environmental impacts.
     #pdf: https://goindex.chen-song90.workers.dev/0:/AHEMS/
@@ -25,7 +25,7 @@ main:
     #image: https://blog.songchen.science/images/AHE/GUI.png
     notes:
 
-  - title: AutoVA - Automated VCMA & AHE Measurement System
+ # - title: AutoVA - Automated VCMA & AHE Measurement System
     authors: Song Chen
     project_short: Software
     project: The software is used to 1. control the E-field applied for the VCMA/Magnetoelectric coupling; 2. to control the elctromagnetic field; 3. to control the SMU to apply one bias current ,and meanwhile measuring the Hall voltage. All the parameters can be set correspondingly and sequencer can be made to realize the automation.
