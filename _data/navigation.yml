@@ -1,4 +1,4 @@
-main:
+smain:
 
   - title: "Contact"
     url: ./#contact 
@@ -16,7 +16,7 @@ main:
   - title: "News"
     url: ./#news
 
-  - title: "Blogs"
+  - title: "Video"
     url: ./blog/
 
   - title: "Bio"
