@@ -2,7 +2,7 @@
 
 <h2 style="margin: 30px 0px 10px;">Contact</h2>
 
-<p><strong>Address:</strong> <a href="https://www.google.com/maps/place/10+Bd+Thomas+Gobert,+91120+Palaiseau/@48.7124352,2.194429,17z/data=!3m1!4b1!4m6!3m5!1s0x47e678bdc3c9eee5:0xb68bc1fb5222c860!8m2!3d48.7124317!4d2.1970093!16s%2Fg%2F11h2c29d0k?entry=ttu">T-Block, UWE, BRL, Bristol BS16 1QY</a>
+<p><strong>Address:</strong> <a href="https://www.google.com/maps/@51.5016121,-2.5508755,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipMYQoQHvTFoMJAYDcG6XG35xWj6w1kxE0VjfNjn!2e10!3e12!6shttps:%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipMYQoQHvTFoMJAYDcG6XG35xWj6w1kxE0VjfNjn%3Dw114-h86-k-no!7i4000!8i3000?entry=ttu&g_ep=EgoyMDI1MTAwOC4wIKXMDSoASAFQAw%3D%3D">T-Block, UWE, BRL, Bristol BS16 1QY</a> 
 <br />
 <strong>Office Location:</strong> Bristol Robotics Laboratory
 <br />
