@@ -6,7 +6,7 @@ main:
     #pdf: https://tohoku.repo.nii.ac.jp/record/2001826/files/240326-LIAO-6293-1.pdf
     web: https://www.thevivohub.com/
     image: https://blog.songchen.science/images/plasma.jpg
-    notes: Responsible for the design and implementation of the experiment, and BCA simulations.
+    notes: The VIVO Hub for Enhanced Independent Living
 
   - title: I-V Measurement System
     authors: Song Chen
