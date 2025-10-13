@@ -1,10 +1,10 @@
 main:
 
-  - title: Effect of Helium Ion Irradiation on Spin and Magnetic Properties of Ta/CoFeB Structures
+  - title: The VIVO Hub
     project_short: Research project
-    project: This research investigates he effects of Helium ion irradiation on the spin and magnetic properties of Ta/CoFeB structures. The samples of Ta/CoFeB with different thicknesses of the Ta layer are deposited and annealed for PMA and then irradiated by different doses. The different thicknesses of Ta lead to different properties in microscopic, and the dose-dependent effects can show the effects of the He ion irradiation.
-    pdf: https://tohoku.repo.nii.ac.jp/record/2001826/files/240326-LIAO-6293-1.pdf
-    web: https://tohoku.repo.nii.ac.jp/record/2001826/files/240326-LIAO-6293-1.pdf
+    project: The VIVO team comprises world-leading experts across science, engineering, healthcare, and engagement, who will ensure the successful delivery of the VIVO Hub. 
+    #pdf: https://tohoku.repo.nii.ac.jp/record/2001826/files/240326-LIAO-6293-1.pdf
+    web: https://www.thevivohub.com/
     image: https://blog.songchen.science/images/plasma.jpg
     notes: Responsible for the design and implementation of the experiment, and BCA simulations.
 
