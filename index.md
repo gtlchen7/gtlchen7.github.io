@@ -12,7 +12,7 @@ My research involves magnetoelectric ("ME") materials for energy-efficient infor
 
 ## Research Interest
 
-- **Multi-physics Simulation:** Io-Matter Simulation(SRIM, SDTrimSP, RustBCA), Micromagnetic Simulation (MuMax3, OOMMF)
+- **Multi-physics Simulation:** Io-Matter Simulation(SRIM, SDTrimSP, RustBCA), Micromagnetic Simulation (MuMax3, OOMMF)444444444
 - **Ion Irradiation/Implantation**
 - **Machine Learning:** fairness AI, penalization and augmentation methods
 - **Voltage Controlled Magnetism** VCMA, Strain-mediated ME (Magnetoelectric) Effects, Straintronic, iontronic, E-filed induced spin reorientation, SOT.
