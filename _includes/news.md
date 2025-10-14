@@ -4,9 +4,10 @@
 
 <ul>
 
-<li><strong>[May. 2025]</strong> Second place at global RoboSoft 2025 competition, as shown in the  <span style="color:#e74d3c"><a href="https://www.sems.qmul.ac.uk/news/7171/queen-mary-robotics-team-wins-second-place-at-global-robosoft-2025-competition/?utm_source=S%26E+all+staff+list&utm_campaign=4a31142bc0-se-news-feb2025_COPY_01&utm_medium=email&utm_term=0_8a4b9afd19-4a31142bc0-1243528693">Github repository</a></span>.</li>
+<li><strong>[May. 2025]</strong> Second place at global RoboSoft 2025 competition, as shown in the  <span style="color:#e74d3c"><a href="https://www.sems.qmul.ac.uk/news/7171/queen-mary-robotics-team-wins-second-place-at-global-robosoft-2025-competition/?utm_source=S%26E+all+staff+list&utm_campaign=4a31142bc0-se-news-feb2025_COPY_01&utm_medium=email&utm_term=0_8a4b9afd19-4a31142bc0-1243528693">News page</a></span>.</li>
 
-<li><strong>[Jan. 2025]</strong> Representative at STEM for Britain at Parliament, as shown in the  <span style="color:#e74d3c"><a href="https://www.sems.qmul.ac.uk/news/7124/early-career-researchers-present-to-parliamentary-officials-at-stem-for-britain-2025/">Github repository</a></span>.</li>
+<li><strong>[Jan. 2025]</strong> Representative at STEM for Britain at Parliament, as shown in the  <span style="color:#e74d3c"><a href="https://www.sems.qmul.ac.uk/news/7124/early-career-researchers-present-to-parliamentary-officials-at-stem-for-britain-2025/">News page</a></span>.</li>
 
-</div>
+<li><strong>[Aug. 2024]</strong> Congratulations to Dr Chen Liu for passing his PhD viva, as shown in the  <span style="color:#e74d3c"><a href="https://www.sems.qmul.ac.uk/news/6885/congratulations-to-dr-chen-liu/">News page</a></span>.</li>
+
 </ul>
