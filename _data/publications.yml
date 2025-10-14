@@ -54,7 +54,7 @@ main:
     notes: Published 
 
   - title: A single-chamber pneumatic soft bending actuator with increased stroke-range by local electric guidance
-    authors: <strong>C Liu</strong>, O Edwards, K Althoefer, K Zhang, H Godaba
+    authors: M Luo, L Liu, <strong>C Liu</strong>, B Li, C Cao, X Gao, D Li
     conference_short: TIE
     conference: IEEE Transactions on Industrial Electronics
     pdf: assets/files/tie.pdf
