@@ -64,12 +64,12 @@ main:
     notes: Published 
 
   - title: Study on the bio-inspired electrochromic device enabled via dielectric elastomer actuator
-    authors: <strong>C Liu</strong>, O Edwards, K Althoefer, K Zhang, H Godaba
-    conference_short: RoboSoft
-    conference: 2022 IEEE 5th International Conference on Soft Robotics (RoboSoft)
-    pdf: assets/files/robosoft.pdf
-    page: https://ieeexplore.ieee.org/abstract/document/9762154
-    image: assets/files/robosoft.png
+    authors: Pengfei Zhao, Yong Cai, <strong>C Liu</strong>, Dengteng Ge, Bo Li, Hualing Chen
+    conference_short: Optical Materials
+    conference: Optical Materials
+    pdf: assets/files/optm.pdf
+    page: https://www.sciencedirect.com/science/article/pii/S0925346720309095
+    image: assets/img/.png
     #citation: sf-0AGoAAAAJ:Y0pCki6q_DkC
     notes: Published
   
