@@ -14,7 +14,7 @@ main:
     project: The project aims to develop a soft 3-dimensional sensing tactile sensor.
     #pdf: https://goindex.chen-song90.workers.dev/0:/I-V/
     #web: https://goindex.chen-song90.workers.dev/0:/I-V/
-    image: https://assets/img/Impactfund.png
+    image: ./assets/img/Impactfund.png
     notes: 
 
   - title: Integrated Human-Augmented Robotics and Intelligent Sensing Platform for Precision Viticulture
