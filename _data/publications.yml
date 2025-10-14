@@ -82,3 +82,13 @@ main:
     image: assets/img/jmr.png
     #citation: sf-0AGoAAAAJ:Y0pCki6q_DkC
     notes: Published
+
+- title: A Novel Morphing Quadrotor UAV with Sarrus-Linkage-Based Reconfigurable Frame
+    authors: K Zhang, <strong>C Liu</strong>
+    conference_short: ReMAR
+    conference: 2024 6th International Conference on Reconfigurable Mechanisms and Robots (ReMAR)
+    pdf: assets/files/remar.pdf
+    page: https://ieeexplore.ieee.org/abstract/document/10619988
+    image: assets/img/remar.png
+    #citation: sf-0AGoAAAAJ:Y0pCki6q_DkC
+    notes: Published
