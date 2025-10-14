@@ -55,11 +55,11 @@ main:
 
   - title: A single-chamber pneumatic soft bending actuator with increased stroke-range by local electric guidance
     authors: <strong>C Liu</strong>, O Edwards, K Althoefer, K Zhang, H Godaba
-    conference_short: RoboSoft
-    conference: 2022 IEEE 5th International Conference on Soft Robotics (RoboSoft)
-    pdf: assets/files/robosoft.pdf
-    page: https://ieeexplore.ieee.org/abstract/document/9762154
-    image: assets/files/robosoft.png
+    conference_short: TIE
+    conference: IEEE Transactions on Industrial Electronics
+    pdf: assets/files/tie.pdf
+    page: https://ieeexplore.ieee.org/abstract/document/9161423
+    image: assets/img/tie.png
     #citation: sf-0AGoAAAAJ:Y0pCki6q_DkC
     notes: Published 
 
