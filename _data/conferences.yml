@@ -7,3 +7,21 @@ main:
     web: https://www.sems.qmul.ac.uk/news/7124/early-career-researchers-present-to-parliamentary-officials-at-stem-for-britain-2025/
     image: assets/img/stem.jpg
     notes: Early career researchers present to parliamentary officials at STEM for BRITAIN 2025 
+
+  - title: Best Poster Presentation at the SoRo 2024
+    authors: Chen Liu
+    conference_short: SoRo 2024
+    conference: Mapping the Future of Soft Robotics for Healthcare (SoRo)
+    #pdf: https://blog.songchen.science/assets/files/MCAA.pdf
+    #web: https://www.sems.qmul.ac.uk/news/6755/robotics-student-wins-the-best-poster-presentation-at-the-soro-2024/
+    image: assets/img/soro.jpg
+    notes: Chen presented his recent work on developing a smart actuator-powered wearable finger tremor suppression orthosis. 
+
+  - title: Best Oral Presentation at the BioMedEng24
+    authors: Chen Liu
+    conference_short: BioMedEng24
+    conference: BioMedEng24
+    #pdf: https://blog.songchen.science/assets/files/MCAA.pdf
+    #web: https://www.sems.qmul.ac.uk/news/6755/robotics-student-wins-the-best-poster-presentation-at-the-soro-2024/
+    image: assets/img/bio.png
+    #notes: Chen presented his recent work on developing a smart actuator-powered wearable finger tremor suppression orthosis.
