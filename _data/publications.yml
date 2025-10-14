@@ -83,7 +83,7 @@ main:
     #citation: sf-0AGoAAAAJ:Y0pCki6q_DkC
     notes: Published
 
-- title: A Novel Morphing Quadrotor UAV with Sarrus Linkage based Reconfigurable Frame
+  - title: A Novel Morphing Quadrotor UAV with Sarrus Linkage based Reconfigurable Frame
     authors: Y Wang, <strong>C Liu</strong>, K Zhang
     conference_short: ReMAR
     conference: 2024 6th International Conference on Reconfigurable Mechanisms and Robots
