@@ -52,3 +52,33 @@ main:
     image: assets/files/robosoft.png
     #citation: sf-0AGoAAAAJ:Y0pCki6q_DkC
     notes: Published 
+
+  - title: A single-chamber pneumatic soft bending actuator with increased stroke-range by local electric guidance
+    authors: <strong>C Liu</strong>, O Edwards, K Althoefer, K Zhang, H Godaba
+    conference_short: RoboSoft
+    conference: 2022 IEEE 5th International Conference on Soft Robotics (RoboSoft)
+    pdf: assets/files/robosoft.pdf
+    page: https://ieeexplore.ieee.org/abstract/document/9762154
+    image: assets/files/robosoft.png
+    #citation: sf-0AGoAAAAJ:Y0pCki6q_DkC
+    notes: Published 
+
+  - title: Study on the bio-inspired electrochromic device enabled via dielectric elastomer actuator
+    authors: <strong>C Liu</strong>, O Edwards, K Althoefer, K Zhang, H Godaba
+    conference_short: RoboSoft
+    conference: 2022 IEEE 5th International Conference on Soft Robotics (RoboSoft)
+    pdf: assets/files/robosoft.pdf
+    page: https://ieeexplore.ieee.org/abstract/document/9762154
+    image: assets/files/robosoft.png
+    #citation: sf-0AGoAAAAJ:Y0pCki6q_DkC
+    notes: Published
+  
+  - title: Design and analysis of a novel reconfigurable parallel manipulator with Kirigami-inspired Bennett Plano-spherical linkages and angular pouch motors
+    authors: <strong>C Liu</strong>, O Edwards, K Althoefer, K Zhang, H Godaba
+    conference_short: RoboSoft
+    conference: 2022 IEEE 5th International Conference on Soft Robotics (RoboSoft)
+    pdf: assets/files/robosoft.pdf
+    page: https://ieeexplore.ieee.org/abstract/document/9762154
+    image: assets/files/robosoft.png
+    #citation: sf-0AGoAAAAJ:Y0pCki6q_DkC
+    notes: Published
