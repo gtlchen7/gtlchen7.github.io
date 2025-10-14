@@ -1,12 +1,12 @@
 main:
-  - title: MCAA Annual Conference 2025
-    authors: Song Chen
-    conference_short: Marie Curie
-    conference: MCAA Annual Conference 2025
-    pdf: https://blog.songchen.science/assets/files/MCAA.pdf
-    web: 
-    image: https://www.mariecuriealumni.eu/themes/on/images/logo.jpg
-    notes: Light talk about AutoVA
+  - title: STEM for Britain 2025
+    authors: Chen Liu
+    conference_short: STEM for Britain
+    conference: STEM for Britain
+    #pdf: https://blog.songchen.science/assets/files/MCAA.pdf
+    web: https://www.sems.qmul.ac.uk/news/7124/early-career-researchers-present-to-parliamentary-officials-at-stem-for-britain-2025/
+    image: assets/img/stem.jpg
+    notes: Early career researchers present to parliamentary officials at STEM for BRITAIN 2025 
 
   - title: BeMAGIC Final Event - Post Event
     authors: Song Chen
