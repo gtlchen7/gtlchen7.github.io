@@ -69,7 +69,7 @@ main:
     conference: Optical Materials
     pdf: assets/files/optm.pdf
     page: https://www.sciencedirect.com/science/article/pii/S0925346720309095
-    image: assets/img/.png
+    image: assets/img/optm.png
     #citation: sf-0AGoAAAAJ:Y0pCki6q_DkC
     notes: Published
   
@@ -86,7 +86,7 @@ main:
 - title: A Novel Morphing Quadrotor UAV with Sarrus-Linkage-Based Reconfigurable Frame
     authors: K Zhang, <strong>C Liu</strong>
     conference_short: ReMAR
-    conference: 2024 6th International Conference on Reconfigurable Mechanisms and Robots (ReMAR)
+    conference: 2024 6th International Conference on Reconfigurable Mechanisms and Robots
     pdf: assets/files/remar.pdf
     page: https://ieeexplore.ieee.org/abstract/document/10619988
     image: assets/img/remar.png
