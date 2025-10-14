@@ -22,15 +22,15 @@ main:
     #citation: sf-0AGoAAAAJ:d1gkVwhDpl0C
     notes: Published
 
-  - title: Flexible multielectrode arrays based electrochemical aptasensor for glycated human serum albumin detection
-    authors: Lei Zhou, Gabriela Figueroa-Miranda, <strong>Song Chen</strong>, Marc Neis, Ziheng Hu, Ruifeng Zhu, Yaqi Li, Michael Prömpers, Andreas Offenhäusser, Dirk Mayer
-    conference_short: Sens. Actuators B Chem.
-    conference: Sensors and Actuators B Chemical
-    pdf: ./assets/files/SSRN-id4328224.pdf
-    page: https://www.sciencedirect.com/science/article/abs/pii/S0925400523004458
-    bibtex: ./assets/files/flexible.txt
+  - title: A Wearable Finger Tremor-Suppression Orthosis Using the PVC Gel Linear Actuator
+    authors: <strong>C Liu</strong>, K Zhang
+    conference_short: IEEE RA-L
+    conference: IEEE Robotics and Automation Letters
+    pdf: ./assets/files/ral.pdf
+    page: https://ieeexplore.ieee.org/abstract/document/10443967
+    #bibtex: ./assets/files/flexible.txt
     image: ./assets/files/1-s2.0-S0925400523004458-ga1_lrg.jpg
-    citation: sf-0AGoAAAAJ:qjMakFHDy7sC
+    #citation: sf-0AGoAAAAJ:qjMakFHDy7sC
     notes: Published
 
   - title: Controlling Magneto‐Ionics by Defect Engineering Through Light Ion Implantation
