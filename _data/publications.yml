@@ -103,12 +103,22 @@ main:
     #citation: sf-0AGoAAAAJ:Y0pCki6q_DkC
     notes: Published
 
-  - title: IBroadening Bandwidth in a Semi-Active Vibration Absorption System Utilizing Stacked Polyvinyl Chloride Gel Actuators
+  - title: Broadening Bandwidth in a Semi-Active Vibration Absorption System Utilizing Stacked Polyvinyl Chloride Gel Actuators
     authors: Z Li, <strong>C Liu</strong>, M Sheng, M Wang, H Chen, B Li, P Xia
     conference_short: Micromachines
     conference: Micromachines
     pdf: assets/files/mic.pdf
     page: https://www.mdpi.com/2072-666X/15/5/649
     image: assets/img/mic.png
+    #citation: sf-0AGoAAAAJ:Y0pCki6q_DkC
+    notes: Published
+
+  - title: A suite of robotic solutions for nuclear waste decommissioning
+    authors: Ivan Vitanov, Ildar Farkhatdinov, Brice Denoun, Francesca Palermo, Ata Otaran, Joshua Brown, Bukeikhan Omarali, Taqi Abrar, Miles Hansard, Changjae Oh, Stefan Poslad, <strong>Chen Liu</strong>, Hareesh Godaba, Ketao Zhang, Lorenzo Jamone, Kaspar Althoefer
+    conference_short: Robotics
+    conference: Robotics
+    pdf: assets/files/rob.pdf
+    page: https://www.mdpi.com/2218-6581/10/4/112
+    image: assets/img/rob.png
     #citation: sf-0AGoAAAAJ:Y0pCki6q_DkC
     notes: Published
