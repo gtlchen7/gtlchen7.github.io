@@ -112,6 +112,16 @@ main:
     image: assets/img/mic.png
     #citation: sf-0AGoAAAAJ:Y0pCki6q_DkC
     notes: Published
+  
+  - title: A Review of Trans‐Dimensional Kirigami: From Compliant Mechanism to Multifunctional Robot
+    authors: Yang Yu, Jinyao Zhang, Dengchen Wang, Yanqi Yin, Yehui Wu, Ruiyu Bai, Jiaqiang Yao, Yupei Zhang, Jingwen Yin, Chao Tang, Alexey S Fomin, Wenjie Sun, <strong>Chen Liu</strong>, Bo Li, Guimin Chen
+    conference_short: Adv. Int. Sys.
+    conference: Advanced Intelligent Systems
+    pdf: assets/files/review.pdf
+    page: https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/aisy.202500714
+    image: assets/img/review.jpg
+    #citation: sf-0AGoAAAAJ:Y0pCki6q_DkC
+    notes: Published
 
   - title: A suite of robotic solutions for nuclear waste decommissioning
     authors: Ivan Vitanov, Ildar Farkhatdinov, Brice Denoun, Francesca Palermo, Ata Otaran, Joshua Brown, Bukeikhan Omarali, Taqi Abrar, Miles Hansard, Changjae Oh, Stefan Poslad, <strong>Chen Liu</strong>, Hareesh Godaba, Ketao Zhang, Lorenzo Jamone, Kaspar Althoefer
