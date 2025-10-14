@@ -102,3 +102,13 @@ main:
     image: assets/img/pra.png
     #citation: sf-0AGoAAAAJ:Y0pCki6q_DkC
     notes: Published
+
+  - title: IBroadening Bandwidth in a Semi-Active Vibration Absorption System Utilizing Stacked Polyvinyl Chloride Gel Actuators
+    authors: Z Li, <strong>C Liu</strong>, M Sheng, M Wang, H Chen, B Li, P Xia
+    conference_short: Micromachines
+    conference: Micromachines
+    pdf: assets/files/mic.pdf
+    page: https://www.mdpi.com/2072-666X/15/5/649
+    image: assets/img/mic.png
+    #citation: sf-0AGoAAAAJ:Y0pCki6q_DkC
+    notes: Published
