@@ -82,13 +82,23 @@ main:
     image: assets/img/jmr.png
     #citation: sf-0AGoAAAAJ:Y0pCki6q_DkC
     notes: Published
-
-  - title: A Novel Morphing Quadrotor UAV with Sarrus Linkage based Reconfigurable Frame
+    
+  - title: A Novel Morphing Quadrotor UAV with Sarrus-Linkage-Based Reconfigurable Frame
     authors: Y Wang, <strong>C Liu</strong>, K Zhang
     conference_short: ReMAR
     conference: 2024 6th International Conference on Reconfigurable Mechanisms and Robots
     pdf: assets/files/remar.pdf
     page: https://ieeexplore.ieee.org/abstract/document/10619988
+    image: assets/img/remar.png
+    #citation: sf-0AGoAAAAJ:Y0pCki6q_DkC
+    notes: Published
+    
+  - title: Inverse design of multistable kirigami metamaterial via geometry-enabled shape programming and transforming
+    authors: Yanqi Yin, Yunzhou Hu, Yang Yu, Yupei Zhang, <strong>Chen Liu</strong>, Wenjie Sun, Bo Li
+    conference_short: PRA
+    conference: Physical Review Applied
+    pdf: assets/files/pra.pdf
+    page: https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.23.034070
     image: assets/img/remar.png
     #citation: sf-0AGoAAAAJ:Y0pCki6q_DkC
     notes: Published
