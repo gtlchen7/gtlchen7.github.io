@@ -5,7 +5,7 @@ main:
     project: The VIVO team comprises world-leading experts across science, engineering, healthcare, and engagement, who will ensure the successful delivery of the VIVO Hub. 
     #pdf: https://tohoku.repo.nii.ac.jp/record/2001826/files/240326-LIAO-6293-1.pdf
     web: https://www.thevivohub.com/
-    image: https://blog.songchen.science/images/plasma.jpg
+    image: assets/img/vivo.png
     notes: The VIVO Hub for Enhanced Independent Living
 
   - title: Impact Fund Queen Mary
