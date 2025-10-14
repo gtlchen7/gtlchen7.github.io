@@ -74,11 +74,11 @@ main:
     notes: Published
   
   - title: Design and analysis of a novel reconfigurable parallel manipulator with Kirigami-inspired Bennett Plano-spherical linkages and angular pouch motors
-    authors: <strong>C Liu</strong>, O Edwards, K Althoefer, K Zhang, H Godaba
-    conference_short: RoboSoft
-    conference: 2022 IEEE 5th International Conference on Soft Robotics (RoboSoft)
-    pdf: assets/files/robosoft.pdf
-    page: https://ieeexplore.ieee.org/abstract/document/9762154
+    authors: K Zhang, <strong>C Liu</strong>
+    conference_short: JMR
+    conference: Journal of Mechanisms and Robotics
+    pdf: assets/files/jmr.pdf
+    page: https://asmedigitalcollection.asme.org/mechanismsrobotics/article-abstract/13/4/040911/1108203/Design-and-Analysis-of-a-Novel-Reconfigurable?redirectedFrom=fulltext
     image: assets/files/robosoft.png
     #citation: sf-0AGoAAAAJ:Y0pCki6q_DkC
     notes: Published
