@@ -6,9 +6,9 @@ main:
     conference: Soft Matter
     pdf: ./assets/files/softmatter.pdf
     page: https://pubs.rsc.org/en/content/articlelanding/2021/sm/d1sm00618e/unauth
-    bibtex: ./assets/files/multi.txt
+    #bibtex: ./assets/files/multi.txt
     image: ./assets/img/softmatter.png
-    citation: sf-0AGoAAAAJ:u5HHmVD_uO8C
+    #citation: sf-0AGoAAAAJ:u5HHmVD_uO8C
     notes: Published
 
   - title: Magneto‐Ionics in Annealed W/CoFeB/HfO2 Thin Films
