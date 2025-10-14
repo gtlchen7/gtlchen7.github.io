@@ -21,5 +21,5 @@ main:
     project_short: Research project
     project: "This innovative three-year project aims to develop a robotic precision farming ecosystem for the viticulture industry. The robot will utilise: Intelligent sensing and image spectral analysis; Precision manipulation and perception systems with a virtual reality interface; Cloud-connected AI components with human-in-the-loop learning capabilities."
     web: https://www.sems.qmul.ac.uk/research/projects/1856/integrated-human-augmented-robotics-and-intelligent-sensing-platform-for-precision-viticulture
-    #image: https://blog.songchen.science/images/AHE/GUI.png
+    image: ./assets/img/vineyard.jpg
     notes: This project aims to revolutionize the way high-value horticultural crops such as grapes, berries, and other fruits are grown by developing and implementing a precision farming ecosystem.
