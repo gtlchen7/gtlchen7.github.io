@@ -11,15 +11,15 @@ main:
     #citation: sf-0AGoAAAAJ:u5HHmVD_uO8C
     notes: Published
 
-  - title: Magneto‐Ionics in Annealed W/CoFeB/HfO2 Thin Films
-    authors: Rohit Pachat, Djoudi Ourdani, Maria‐andromachi Syskaki, Alessio Lamperti, Subhajit Roy, <strong>Song Chen</strong>, Adriano Di Pietro, Ludovic Largeau, Roméo Juge, Maryam Massouras, Cristina Balan, Johannes Wilhelmus van der Jagt, Guillaume Agnus, Yves Roussigné, Mihai Gabor, Salim Mourad Chérif, Gianfranco Durin, Shimpei Ono, Jürgen Langer, Damien Querlioz, Dafiné Ravelosona, Mohamed Belmeguenai, Liza Herrera Diez
-    conference_short: Adv. Mater. Interfaces
-    conference: Advanced Materials Interfaces
-    pdf: https://onlinelibrary.wiley.com/doi/pdf/10.1002/admi.202200690
-    page: https://www.sciencedirect.com/science/article/abs/pii/S0925400521013800?via%3Dihub
-    bibtex: ./assets/files/magnetoionic.txt
-    image: ./assets/files/admi202270196-gra-0001-m.jpg
-    citation: sf-0AGoAAAAJ:d1gkVwhDpl0C
+  - title: An electric self‐sensing and variable‐stiffness artificial muscle
+    authors: <strong>C Liu</strong>, JJC Busfield, K Zhang
+    conference_short: Adv. Intelli. Systems
+    conference: Advanced Intelligent Systems
+    pdf: assets/files/aisy.pdf
+    page: https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/aisy.202300131
+    #bibtex: ./assets/files/magnetoionic.txt
+    image: ./assets/img/aisy.png
+    #citation: sf-0AGoAAAAJ:d1gkVwhDpl0C
     notes: Published
 
   - title: Flexible multielectrode arrays based electrochemical aptasensor for glycated human serum albumin detection
