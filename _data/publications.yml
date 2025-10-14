@@ -1,7 +1,7 @@
 main:
 
   - title: 3D printable and fringe electric field adhesion enabled variable stiffness artificial muscles for semi-active vibration attenuation
-    authors: <strong>C Liu</strong>, C Liu, B Li, Z Li, C Cao, X Gao, K Zhang, H Chen
+    authors: <strong>C Liu</strong>, B Li, Z Li, C Cao, X Gao, K Zhang, H Chen
     conference_short: Soft Matter
     conference: Soft Matter
     pdf: ./assets/files/softmatter.pdf
@@ -15,7 +15,7 @@ main:
     authors: <strong>C Liu</strong>, JJC Busfield, K Zhang
     conference_short: Adv. Intelli. Systems
     conference: Advanced Intelligent Systems
-    pdf: assets/files/aisy.pdf
+    pdf: ./assets/files/aisy.pdf
     page: https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/aisy.202300131
     #bibtex: ./assets/files/magnetoionic.txt
     image: ./assets/img/aisy.png
@@ -36,7 +36,7 @@ main:
   - title: Capacitive PVC Gel Pressure Sensors with Various Interlinked Microstructural Dielectric Middle Layers
     authors: <strong>C Liu</strong>, Muhammad H Uddin, K Zhang
     conference_short: SNA
-    conference: Sensors and Actuators A: Physical
+    conference: Sensors and Actuators A Physical
     pdf: assets/files/sna.pdf
     page: https://www.sciencedirect.com/science/article/pii/S0924424724005132
     image: ./assets/img/sna.png
@@ -47,7 +47,7 @@ main:
     authors: <strong>C Liu</strong>, O Edwards, K Althoefer, K Zhang, H Godaba
     conference_short: RoboSoft
     conference: 2022 IEEE 5th International Conference on Soft Robotics (RoboSoft)
-    pdf: https://arxiv.org/pdf/2410.04849
+    pdf: assets/files/robosoft.pdf
     page: https://ieeexplore.ieee.org/abstract/document/9762154
     image: https://i1.rgstatic.net/publication/332591532_Advanced_Functional_Materials/links/5cbf3e40299bf120977abb00/largepreview.png
     citation: sf-0AGoAAAAJ:Y0pCki6q_DkC
