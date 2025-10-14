@@ -49,6 +49,6 @@ main:
     conference: 2022 IEEE 5th International Conference on Soft Robotics (RoboSoft)
     pdf: assets/files/robosoft.pdf
     page: https://ieeexplore.ieee.org/abstract/document/9762154
-    image: https://i1.rgstatic.net/publication/332591532_Advanced_Functional_Materials/links/5cbf3e40299bf120977abb00/largepreview.png
-    citation: sf-0AGoAAAAJ:Y0pCki6q_DkC
+    image: assets/files/robosoft.png
+    #citation: sf-0AGoAAAAJ:Y0pCki6q_DkC
     notes: Published 
