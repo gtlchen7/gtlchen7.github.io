@@ -43,12 +43,12 @@ main:
    #citation: sf-0AGoAAAAJ:Tyk-4Ss8FVUC
     notes: Published
 
-  - title: Tuning of perpendicular magnetic anisotropy in Bi-substituted yttrium iron garnet films by He+ ion irradiation
-    authors: Sreeveni Das, Rhodri Mansell, Lukáš Flajšman, Lide Yao, Johannes W van der Jagt, Song Chen, Dafiné Ravelosona, Liza Herrera Diez, Sebastiaan van Dijken
-    conference_short: APR
-    conference: APR
+  - title: An electro-pneumatic shape morphing rolling robot with variable locomotion modes
+    authors: <strong>C Liu</strong>, O Edwards, K Althoefer, K Zhang, H Godaba
+    conference_short: RoboSoft
+    conference: 2022 IEEE 5th International Conference on Soft Robotics (RoboSoft)
     pdf: https://arxiv.org/pdf/2410.04849
-    page: https://arxiv.org/pdf/2410.04849
+    page: https://ieeexplore.ieee.org/abstract/document/9762154
     image: https://i1.rgstatic.net/publication/332591532_Advanced_Functional_Materials/links/5cbf3e40299bf120977abb00/largepreview.png
     citation: sf-0AGoAAAAJ:Y0pCki6q_DkC
     notes: Published 
