@@ -132,3 +132,13 @@ main:
     image: assets/img/rob.png
     #citation: sf-0AGoAAAAJ:Y0pCki6q_DkC
     notes: Published
+
+  - title: A variable stiffness continuum parallel manipulator with 3D printed pneumatic artificial muscles
+    authors: Zhujin Jiang, <strong>Chen Liu</strong>, Ketao Zhang
+    #conference_short: 
+    conference: International Design Engineering Technical Conferences and Computers and Information in Engineering Conference
+    pdf: assets/files/vsc.pdf
+    page: https://asmedigitalcollection.asme.org/IDETC-CIE/proceedings-abstract/IDETC-CIE2022/V007T07A057/1150593
+    image: assets/img/vsc.png
+    #citation: sf-0AGoAAAAJ:Y0pCki6q_DkC
+    notes: Published
