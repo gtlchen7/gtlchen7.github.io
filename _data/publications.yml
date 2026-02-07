@@ -1,5 +1,16 @@
 main:
-
+  
+  - title: A Wearable Hand Tremor-Suppressing Glove Using PVC Gel-Based Actuators and Force Sensors
+    authors: <strong>C Liu</strong>, Y Wang, K Zhang
+    conference_short: TMECH
+    conference: IEEE/ASME Transactions on Mechatronics
+    #pdf: 
+    #page: https://pubs.rsc.org/en/content/articlelanding/2021/sm/d1sm00618e/unauth
+    #bibtex: ./assets/files/multi.txt
+    #image: ./assets/img/softmatter.png
+    #citation: sf-0AGoAAAAJ:u5HHmVD_uO8C
+    notes: Published
+    
   - title: 3D printable and fringe electric field adhesion enabled variable stiffness artificial muscles for semi-active vibration attenuation
     authors: <strong>C Liu</strong>, B Li, Z Li, C Cao, X Gao, K Zhang, H Chen
     conference_short: Soft Matter
