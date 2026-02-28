@@ -4,7 +4,7 @@ main:
     authors: <strong>C Liu</strong>, Y Wang, K Zhang
     conference_short: TMECH
     conference: IEEE/ASME Transactions on Mechatronics
-    #pdf: 
+    pdf: assets/files/TMECHPDF.pdf 
     page: https://ieeexplore.ieee.org/document/11415693/authors#authors
     #bibtex: ./assets/files/multi.txt
     image: ./assets/img/Abstract.png
