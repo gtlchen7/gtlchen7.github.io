@@ -5,7 +5,7 @@ main:
     conference_short: TMECH
     conference: IEEE/ASME Transactions on Mechatronics
     #pdf: 
-    #page: https://pubs.rsc.org/en/content/articlelanding/2021/sm/d1sm00618e/unauth
+    page: https://ieeexplore.ieee.org/document/11415693/authors#authors
     #bibtex: ./assets/files/multi.txt
     image: ./assets/img/Abstract.png
     #citation: sf-0AGoAAAAJ:u5HHmVD_uO8C
