@@ -3,7 +3,8 @@
 <h2 style="margin: 30px 0px 10px;">News</h2>
 
 <ul>
-
+<li><strong>[Jan. 2026]</strong> Awarded the funding of the PUMP Priming Grant for early-career researchers as the PI, School of Engineering Mathematics and Technology, University of Bristol.</li>
+  
 <li><strong>[Jan. 2026]</strong> Winner of the Dragon Den's Presentation in the conference of Soft Robotics for Health.</li>
 
 <li><strong>[May. 2025]</strong> Second place at global RoboSoft 2025 competition, as shown in the  <span style="color:#e74d3c"><a href="https://www.sems.qmul.ac.uk/news/7171/queen-mary-robotics-team-wins-second-place-at-global-robosoft-2025-competition/?utm_source=S%26E+all+staff+list&utm_campaign=4a31142bc0-se-news-feb2025_COPY_01&utm_medium=email&utm_term=0_8a4b9afd19-4a31142bc0-1243528693">News page</a></span>.</li>
