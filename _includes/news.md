@@ -3,7 +3,7 @@
 <h2 style="margin: 30px 0px 10px;">News</h2>
 
 <ul>
-<li><strong>[Mar. 2026]</strong> Awarded the funding of the Pump Priming Grant for early-career researchers as the PI, School of Engineering Mathematics and Technology, University of Bristol.</li>
+<li><strong>[Mar. 2026]</strong> Awarded the funding as the PI: SEMT Early Career Researcher Pump Priming Scheme, School of Engineering Mathematics and Technology, University of Bristol.</li>
   
 <li><strong>[Jan. 2026]</strong> Winner of the Dragon Den's Presentation in the conference of Soft Robotics for Health.</li>
 
