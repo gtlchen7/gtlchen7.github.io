@@ -1,12 +1,20 @@
 main:
 
-  - title: The VIVO Hub
+  - title: EPSRC: The VIVO Hub
     project_short: Research project
     project: The VIVO team comprises world-leading experts across science, engineering, healthcare, and engagement, who will ensure the successful delivery of the VIVO Hub. 
     #pdf: https://tohoku.repo.nii.ac.jp/record/2001826/files/240326-LIAO-6293-1.pdf
     web: https://www.thevivohub.com/
     image: assets/img/vivo.png
     notes: The VIVO Hub for Enhanced Independent Living
+
+  - title: ECR pump priming scheme 2026: SpeakClear
+    project_short: Research project
+    project: A Humidity-Responsive Optical Insert for Face Masks. 
+    #pdf: https://tohoku.repo.nii.ac.jp/record/2001826/files/240326-LIAO-6293-1.pdf
+    #web: https://www.thevivohub.com/
+    image: assets/img/mask.png
+    notes: A Humidity-Responsive Optical Insert for Face Masks.
 
   - title: Impact Fund Queen Mary
     project_short: Research project
@@ -17,7 +25,7 @@ main:
     image: ./assets/img/Impactfund.png
     notes: 
 
-  - title: Integrated Human-Augmented Robotics and Intelligent Sensing Platform for Precision Viticulture
+  - title: Innovation UK: Integrated Human-Augmented Robotics and Intelligent Sensing Platform for Precision Viticulture
     project_short: Research project
     project: "This innovative three-year project aims to develop a robotic precision farming ecosystem for the viticulture industry. The robot will utilise: Intelligent sensing and image spectral analysis; Precision manipulation and perception systems with a virtual reality interface; Cloud-connected AI components with human-in-the-loop learning capabilities."
     web: https://www.sems.qmul.ac.uk/research/projects/1856/integrated-human-augmented-robotics-and-intelligent-sensing-platform-for-precision-viticulture
