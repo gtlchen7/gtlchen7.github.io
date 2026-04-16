@@ -63,7 +63,17 @@ main:
     image: assets/files/robosoft.png
     #citation: sf-0AGoAAAAJ:Y0pCki6q_DkC
     notes: Published 
-
+  
+  - title: Soft Electroadhesive Feet for Micro Aerial Robots Perching on Smooth and Curved Surfaces
+    authors: <strong>C Liu</strong>, S Feroz, K Zhang
+    conference_short: arXiv
+    conference: arXiv
+    pdf: assets/files/robosoft.pdf
+    page: https://arxiv.org/abs/2604.09270
+    image: assets/files/robosoft.png
+    #citation: sf-0AGoAAAAJ:Y0pCki6q_DkC
+    notes: Published 
+    
   - title: A single-chamber pneumatic soft bending actuator with increased stroke-range by local electric guidance
     authors: M Luo, L Liu, <strong>C Liu</strong>, B Li, C Cao, X Gao, D Li
     conference_short: TIE
