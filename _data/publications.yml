@@ -68,9 +68,9 @@ main:
     authors: <strong>C Liu</strong>, S Feroz, K Zhang
     conference_short: arXiv
     conference: arXiv
-    pdf: assets/files/robosoft.pdf
+    pdf: assets/files/arxiv.pdf
     page: https://arxiv.org/abs/2604.09270
-    image: assets/files/robosoft.png
+    image: assets/files/crazyfly.png
     #citation: sf-0AGoAAAAJ:Y0pCki6q_DkC
     notes: Published 
     
