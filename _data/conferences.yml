@@ -1,5 +1,15 @@
 main:
 
+  - title: Best Poster Presentation at ICRA 2026
+    authors: Chen Liu
+    conference_short: ICRA 2026
+    conference: ICRA 2026
+    #pdf: https://blog.songchen.science/assets/files/MCAA.pdf
+    #web: https://www.softroboticshealth.org.uk/conference-2026/
+    image: assets/files/ICRA2026.png
+    notes: Chen got the best poster presentation at "Tailored to Move" workshop of ICRA 22026
+
+
   - title: Soft Robotics for Health 2026
     authors: Chen Liu
     conference_short: SoRo 2026
