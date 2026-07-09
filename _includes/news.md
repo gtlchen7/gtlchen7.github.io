@@ -3,6 +3,8 @@
 <h2 style="margin: 30px 0px 10px;">News</h2>
 
 <ul>
+<li><strong>[Jun. 2026]</strong> Awarded the Best Poster Presentation at the workshop “Tailored to Move” of ICRA 2026.</li>
+  
 <li><strong>[Mar. 2026]</strong> Awarded the funding as the PI: SEMT Early Career Researcher Pump Priming Scheme, School of Engineering Mathematics and Technology, University of Bristol.</li>
   
 <li><strong>[Jan. 2026]</strong> Winner of the Dragon Den's Presentation in the conference of Soft Robotics for Health.</li>
