@@ -10,7 +10,7 @@ layout: homepage
 
 **Dr. Chen Liu** is a Research Associate in the SoftLab led by [**Professor Jonathan Rossiter**](https://research-information.bris.ac.uk/en/persons/jonathan-m-rossiter) at the [**University of Bristol (UoB)**](https://www.bristolroboticslab.com/). His research focuses on soft robotics, artificial muscles, and wearable systems for human assistance and healthcare applications. He has extensive experience in flexible sensors, variable-stiffness structures, and bio-inspired robotic design, bridging material innovation with robotic functionality.
 
-Dr. Liu received his PhD in Mechanical Engineering from [**Queen Mary University of London (QMUL)**](https://www.sems.qmul.ac.uk/staff/c.liu). He previously worked as a Postdoctoral Research Associate at QMUL and as a Research Fellow at **University College London (UCL)**. He also serves as a reviewer for IEEE/ASME Transactions on Mechatronics and other international journals. Dr. Liu was also selected as a **STEM for Britain representative** at the UK Parliament in 2025.
+Dr. Liu received his PhD in Mechanical Engineering from [**Queen Mary University of London (QMUL)**](https://www.sems.qmul.ac.uk/staff/c.liu). He previously worked as a Postdoctoral Research Associate at QMUL and as a Research Fellow at **University College London (UCL)**. He also serves as a reviewer for IEEE/ASME Transactions on Mechatronics, IEEE Sensors Journal, IEEE Robotics and Automation Letters, Advanced Materials, and other international journals. Dr. Liu was also selected as a **STEM for Britain representative** at the UK Parliament in 2025.
 
 ## Research Interest
 
@@ -25,8 +25,10 @@ Dr. Liu received his PhD in Mechanical Engineering from [**Queen Mary University
 - **B.Eng. in Chemical Engineering**, 2013 - 2017, Northwest University, China
 
 ## Professional Affiliations
-- **IET Member**, 2021 - Present
 - **IEEE Member**, 2021 - Present
+- **IEEE RAS Member**, 2021 - Present
+- **IET Member**, 2021 - Present
+
 
 
 {% include_relative _includes/news.md %}
