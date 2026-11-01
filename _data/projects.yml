@@ -31,3 +31,11 @@ main:
     web: https://www.sems.qmul.ac.uk/research/projects/1856/integrated-human-augmented-robotics-and-intelligent-sensing-platform-for-precision-viticulture
     image: ./assets/img/vineyard.jpg
     notes: This project aims to revolutionize the way high-value horticultural crops such as grapes, berries, and other fruits are grown by developing and implementing a precision farming ecosystem.
+
+
+  - title: (Rosetrees) Soft Shape-shifting Capsule Robot for Endoscopy based on Eversion Navigation
+    project_short: Research project
+    project: "The SoftSCREEN (Soft Shape-shifting Capsule Robot for Endoscopy based on Eversion Navigation) is a capsule-sized medical robot designed to navigate the gastrointestinal (GI) tract with reduced patient discomfort compared to conventional colonoscopy."
+    web: httphttps://gtr.ukri.org/projects?ref=studentship-2417562
+    image: .assets/img/softscreen.png
+  
