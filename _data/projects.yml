@@ -37,5 +37,5 @@ main:
     project_short: Research project
     project: "The SoftSCREEN (Soft Shape-shifting Capsule Robot for Endoscopy based on Eversion Navigation) is a capsule-sized medical robot designed to navigate the gastrointestinal (GI) tract with reduced patient discomfort compared to conventional colonoscopy."
     web: httphttps://gtr.ukri.org/projects?ref=studentship-2417562
-    image: .assets/img/softscreen.png
+    image: ./assets/img/softscreen.png
   
